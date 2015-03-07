@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Company>
+	
+	<NhanViens>
+		<NhanVien>
+			<HoTen>Thang PQ</HoTen>
+			<MaPhong>IT</MaPhong>
+			<Luong>7000000</Luong>
+			<Thuong>1000000</Thuong>
+		</NhanVien>
+		
+		<NhanVien>
+			<HoTen>Thang PQ</HoTen>
+			<MaPhong>IT</MaPhong>
+			<Luong>7000000</Luong>
+			<Thuong>1000000</Thuong>
+		</NhanVien>
+		
+		<NhanVien>
+			<HoTen>An NT</HoTen>
+			<MaPhong>BOM</MaPhong>
+			<Luong>15000000</Luong>
+			<Thuong>10000000</Thuong>
+		</NhanVien>
+		
+	</NhanViens>
+</Company>
